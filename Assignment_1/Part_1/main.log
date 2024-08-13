@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.18)  13 AUG 2024 23:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.18)  13 AUG 2024 23:19
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -304,7 +304,89 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./sections/00-abstract.tex) (./sections/01-rationale.tex)
+(./sections/00-abstract.tex) (./sections/01-rationale.tex
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 2027) in paragraph at lines 5--6
+[]\OT1/ptm/m/n/10 The pro-posed prod-uct is acous-tic pan-els made from
+ []
+
+
+Underfull \hbox (badness 2503) in paragraph at lines 5--6
+\OT1/ptm/m/n/10 re-cy-cled denim, de-signed to en-hance sound qual-ity in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--6
+
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 7--8
+\OT1/ptm/m/n/10 En-vi-ron-men-tally, they con-tribute to waste re-duc-tion by
+ []
+
+
+Underfull \hbox (badness 4713) in paragraph at lines 7--8
+\OT1/ptm/m/n/10 di-vert-ing denim from land-fills and con-serv-ing nat-u-ral
+ []
+
+
+Underfull \hbox (badness 1931) in paragraph at lines 7--8
+\OT1/ptm/m/n/10 From a sus-tain-abil-ity per-spec-tive, the pan-els sup-port a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 7--8
+
+ []
+
+
+Underfull \hbox (badness 1377) in paragraph at lines 9--10
+\OT1/ptm/m/n/10 re-cy-cling pro-grams and do-na-tion cen-ters. The denim is
+ []
+
+
+Underfull \hbox (badness 1584) in paragraph at lines 9--10
+\OT1/ptm/m/n/10 prod-ucts, lever-ag-ing ex-ist-ing re-cy-cling in-fras-truc-tur
+e and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 9--10
+
+ []
+
+
+Underfull \hbox (badness 4193) in paragraph at lines 12--13
+\OT1/ptm/m/n/10 ad-vanced sound-absorbing tech-nol-ogy, dis-tin-guishes this
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 12--13
+
+ []
+
+
+Underfull \hbox (badness 3646) in paragraph at lines 14--15
+\OT1/ptm/m/n/10 friendly and energy-efficient build-ings. Acous-tic pan-els
+ []
+
+
+Underfull \hbox (badness 1708) in paragraph at lines 14--15
+\OT1/ptm/m/n/10 func-tional cri-te-ria, ap-peal-ing to ar-chi-tects, builders, 
+and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 14--15
+
+ []
+
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -316,26 +398,30 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
+] [2
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
  4136 strings out of 478287
  64287 string characters out of 5849289
- 356460 words of memory out of 5000000
+ 366460 words of memory out of 5000000
  22303 multiletter control sequences out of 15000+600000
  501755 words of font info for 91 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,62p,227b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 55i,11n,62p,883b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
 r/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive
 /texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on main.pdf (1 page, 25869 bytes).
+Output written on main.pdf (2 pages, 31665 bytes).
 PDF statistics:
- 19 PDF objects out of 1000 (max. 8388607)
- 11 compressed objects within 1 object stream
+ 22 PDF objects out of 1000 (max. 8388607)
+ 13 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

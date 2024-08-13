@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1723562036 "main.tex" "main.pdf" "main" 1723562036
+["pdflatex"] 1723562370 "main.tex" "main.pdf" "main" 1723562370
   "/etc/texmf/web2c/texmf.cnf" 1708870651 475 c0e671620eb5563b2130f56340a5fde8 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
@@ -61,10 +61,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1708870671 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1710725739 2800393 5e78d60ba12c44fd2d260d2daad22e89 ""
   "IEEEtran.cls" 1721904189 288304 b67b6fc6c2abb39f9b461923f5199343 ""
-  "main.aux" 1723562036 225 fdf26a3c90269415d9439ef3810625ac "pdflatex"
+  "main.aux" 1723562370 225 bdad05f1e273ea22c5f3663bdb25034d "pdflatex"
   "main.tex" 1723562035 1067 9f0de138c2d3c704cf68ab69099ddad0 ""
   "sections/00-abstract.tex" 1723561593 155 337370c21cef4007ae840118cc643e33 ""
-  "sections/01-rationale.tex" 1723562001 21 adfddabeb778411bf3a366f87cf36ee5 ""
+  "sections/01-rationale.tex" 1723562367 3797 40e8c6105534341d402ac31114cdc7f5 ""
   (generated)
   "main.aux"
   "main.log"
