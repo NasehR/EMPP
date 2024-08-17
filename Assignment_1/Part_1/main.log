@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.18)  25 JUL 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2022/dev/Debian) (preloaded format=pdflatex 2024.3.18)  17 AUG 2024 23:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -291,20 +291,143 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
-LaTeX Font Info:    Calculating math sizes for size <11> on input line 26.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 26.
+LaTeX Font Info:    Calculating math sizes for size <11> on input line 27.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 27.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 26.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 27.
 
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-(./sections/00-abstract.tex)
+(./sections/00-abstract.tex) (./sections/01-rationale.tex
+Underfull \hbox (badness 1694) in paragraph at lines 2--3
+[]\OT1/ptm/m/n/10 The pro-posed prod-uct is an acous-tic panel pri-mar-ily
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--3
+
+ []
+
+
+Underfull \hbox (badness 5592) in paragraph at lines 4--5
+[]\OT1/ptm/m/n/10 Manufacturing acous-tic pan-els from re-cy-cled denim
+ []
+
+
+Underfull \hbox (badness 2073) in paragraph at lines 4--5
+\OT1/ptm/m/n/10 tex-tile waste from land-fills, re-duc-ing the en-vi-ron-men-ta
+l
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--5
+
+ []
+
+
+Underfull \hbox (badness 1881) in paragraph at lines 6--7
+[]\OT1/ptm/m/n/10 This prod-uct's unique-ness stems from us-ing re-cy-cled
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 a sus-tain-able and ef-fi-cient sub-sti-tute for tra-di-tional
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 sound-proof-ing op-tions. Un-like con-ven-tional fab-rics,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+\OT1/ptm/m/n/10 re-cy-cled denim pos-sesses in-her-ent sound ab-sorp-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 6--7
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 8--9
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--11
+
+ []
+
+<figure/diagram.png, id=1, 392.46625pt x 111.41624pt>
+File: figure/diagram.png Graphic file (type png)
+<use figure/diagram.png>
+Package pdftex.def Info: figure/diagram.png  used on input line 14.
+(pdftex.def)             Requested size: 258.0pt x 73.24763pt.
+
+Overfull \hbox (6.0pt too wide) in paragraph at lines 14--15
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+) [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+
+
+] (./main.bbl
+Underfull \hbox (badness 10000) in paragraph at lines 25--27
+[]\OT1/ptm/m/n/8 ``Environmental Sus-tain-abil-ity in the Fash-ion In-dus-try,'
+'
+ []
+
+
+Overfull \hbox (3.93355pt too wide) in paragraph at lines 25--27
+\OT1/ptm/m/n/8 https://www.genevaenvironmentnetwork.org/resources/updates/susta
+inable-
+ []
+
+LaTeX Font Info:    Trying to load font information for OMS+ptm on input line 3
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/omsptm.fd
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <8> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 30.
+
+Underfull \hbox (badness 2027) in paragraph at lines 29--32
+\OT1/ptm/m/n/8 tain-able Pro-duc-tion and Con-sump-tion of Denim \OMS/cmsy/m/n/
+8 j \OT1/ptm/m/n/8 ACS Omega,''
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+ptm on input line 4
+0.
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ts1ptm.fd
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+)
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+\OT1/ptm/m/n/8 https://www.mckinsey.com/industries/consumer-packaged-goods/our-
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 47--50
+\OT1/ptm/m/n/8 insights/consumers-care-about-sustainability-and-back-it-up-with
+-their-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 52--54
+[]\OT1/ptm/m/n/8 ``The Vi-sion-ary CEO's Guide to Sus-tain-abil-ity,''
+ []
+
+)
 
 ** Conference Paper **
 Before submitting the final camera ready copy, remember to:
@@ -316,28 +439,27 @@ Before submitting the final camera ready copy, remember to:
  uses only Type 1 fonts and that every step in the generation
  process uses the appropriate paper size.
 
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+[2
 
-
-
-] (./main.aux) ) 
+ <./figure/diagram.png>] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 4157 strings out of 478287
- 64416 string characters out of 5849289
- 357460 words of memory out of 5000000
- 22317 multiletter control sequences out of 15000+600000
- 509331 words of font info for 110 fonts, out of 8000000 for 9000
+ 4219 strings out of 478287
+ 65690 string characters out of 5849289
+ 367495 words of memory out of 5000000
+ 22373 multiletter control sequences out of 15000+600000
+ 503768 words of font info for 100 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,11n,62p,227b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</us
-r/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive
-/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fo
-nts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/t
-imes/utmri8a.pfb>
-Output written on main.pdf (1 page, 48112 bytes).
+ 55i,11n,62p,1158b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc
+/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
+m/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr1
+0.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb><
+/usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texl
+ive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on main.pdf (2 pages, 67296 bytes).
 PDF statistics:
- 29 PDF objects out of 1000 (max. 8388607)
- 17 compressed objects within 1 object stream
+ 40 PDF objects out of 1000 (max. 8388607)
+ 23 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 6 words of extra memory for PDF output out of 10000 (max. 10000000)
 
